@@ -1,0 +1,10 @@
+name: TribeSettings
+version: 1.0
+main: me.nowaha.tribesettings.TribeSettings
+api-version: 1.13
+authors: [Nowaha]
+description: TribeSettings
+website: www.noahverkaik.com
+commands:
+  settings:
+  broadcastto:
